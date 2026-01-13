@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-    href="[https://www.linkedin.com/in/juliana-magiero-benedetti/](https://github.com/JujuBene/Jornada-Financeira-Do-Sonho-Realidade/blob/main/output/Jornada_Financeira_Do_Sonho_%C3%80_Realidade.pdf)">
-        Apresentação
+   [ChatGPT]([https://chat.openai.com/](https://github.com/JujuBene/Jornada-Financeira-Do-Sonho-Realidade/blob/main/output/Jornada_Financeira_Do_Sonho_%C3%80_Realidade.pdf)
 </p>
 
 
