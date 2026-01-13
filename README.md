@@ -1,57 +1,81 @@
 <p align="center">
 <img 
-    src="./assets/Img capa Ebook.jpg"
+    src="./assets/unnamed.jpg"
     width="300"
 />
 
 </p>
 
 <p align="center">
-    preview do ebook
+    preview da apresentação
 </p>
 
 
 
-# Projeto E-Book Gerado por I.A.s
+# Projeto Apresentação Educação Financeira
 
 
- > ℹ️ **NOTE:** Este documento resume o eBook "Java Reloaded: O Poder da Programação Orientada a Objetos" e organiza o projeto como material didático pronto para estudo, execução dos exemplos e reprodução dos pequenos exercícios em Java.
+ > ℹ️ **NOTE:** Este repositório foi estruturado a partir do documento “Jornada Financeira: Do Sonho à Realidade”, que serviu como base conceitual e narrativa para a criação de uma apresentação totalmente desenvolvida com apoio de Inteligência Artificial.
 
-Projeto com o objetivo de oferecer um eBook prático e enxuto sobre Java e Programação Orientada a Objetos (POO), com explicações simples, exemplos reais e pequenos trechos de código executáveis. Ideal para quem quer aprender os conceitos essenciais e aplicar em mini-projetos.
+Este projeto tem como objetivo a criação de uma apresentação que aborda a educação financeira de forma acessível, conduzindo o estudante por uma jornada que vai do sonho financeiro à sua concretização na vida real.
+Todo o processo de produção foi realizado por meio de uma esteira de prompts, permitindo automatizar as etapas criativas: roteiro, narr identidade visual e edição.
 
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini](https://gemini.google.com/?hl=pt-BR)
-- [Showcode](https://showcode.app/)
-- PowerPoint
-- Java JDK 11+ (recomendado JDK 17 ou superior)
+- [NotebookLM](https://notebooklm.google.com/)
 
 
-## ✨ Como foi feito ?
+## 🎯 Objetivos do Projeto
 
-- Conteúdo escrito com linguagem simples e direta, dividido em introdução, 5 capítulos e conclusão.
-- Cada capítulo traz um exemplo de código curto e contextualizado (Hello World, cadastro de aluno, conta bancária, herança/polimorfismo e cadastro de produtos).
-- O foco foi demonstrar conceitos de POO: classe/objeto, encapsulamento, construtor, herança e polimorfismo, com exemplos práticos que você pode compilar e executar localmente.
-
-
-## 📚 Estrutura do eBook / capítulos
-
-- Introdução — O Renascimento do Java
-- Capítulo 1 — O Começo da Jornada: Entendendo o Java (Hello World)
-- Capítulo 2 — Pensando em Objetos: A Base da POO (Classe Aluno)
-- Capítulo 3 — Encapsulamento: Protegendo seus Dados (ContaBancaria)
-- Capítulo 4 — Herança e Polimorfismo: Reaproveitando e Adaptando Código (Funcionario / Gerente)
-- Capítulo 5 — Mãos à Obra: Projeto Final com POO (Cadastro de Produto)
-- Conclusão — O Java Está Só Começando
+- Transformar o conteúdo do documento em uma apresentação clara e didática
+- Facilitar a compreensão de conceitos básicos de educação financeira
+- Demonstrar o uso de IAs generativas como suporte à criação de apresentações
+- Criar um material visual reutilizável para fins acadêmicos ou educacionais
 
 
-## 💡 Sugestões de uso
+## 📚 Tema da Apresentação
 
-- Estude capítulo por capítulo e rode os exemplos no seu IDE.
-- Modifique os exemplos (adicione atributos, métodos ou novos objetos) para praticar.
-- Transforme o exemplo do produto em um pequeno sistema com ArrayList<Produto> para listar, adicionar e buscar produtos.
+Jornada Financeira: Do Sonho à Realidade
+A apresentação aborda, de forma progressiva: 
+- Sonhos e objetivos financeiros
+- Importância do planejamento financeiro
+- Organização e controle de gastos
+- Consciência financeira no dia a dia
+- Tomada de decisões financeiras mais responsáveis
+
+
+## ✨ Como o Projeto Foi Desenvolvido
+
+📝 Conteúdo:
+O texto do documento foi adaptado para uma linguagem visual e objetiva
+Estrutura aplicada nos slides:
+- Introdução ao tema
+- Desenvolvimento da jornada financeira
+- Exemplos e reflexões práticas
+- Conclusão com mensagem educativa
+
+🎨 Design Visual:
+Criação de artes e imagens com apoio do Gemini
+Estilo visual focado em:
+- Educação
+- Clareza
+- Crescimento e planejamento financeiro
+
+🧩 Organização dos Slides:
+- Uso de tópicos curtos
+- Hierarquia visual clara
+- Equilíbrio entre texto e elementos gráficos
+
+
+## 🚀 Resultados Esperados
+
+- Apresentação por slides clara e educativa
+- Conteúdo financeiro acessível ao público iniciante
+- Uso prático de IA como ferramenta de apoio educacional
+- Material pronto para apresentações acadêmicas ou escolares
 
 
 ## 👨‍💻 Expert
