@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   [ChatGPT](https://github.com/JujuBene/Jornada-Financeira-Do-Sonho-Realidade/blob/main/output/Jornada_Financeira_Do_Sonho_%C3%80_Realidade.pdf)
+   preview da apresentação
 </p>
 
 
