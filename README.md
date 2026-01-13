@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-    preview da apresentação
+    href="[https://www.linkedin.com/in/juliana-magiero-benedetti/](https://github.com/JujuBene/Jornada-Financeira-Do-Sonho-Realidade/blob/main/output/Jornada_Financeira_Do_Sonho_%C3%80_Realidade.pdf)">
+        Apresentação
 </p>
 
 
