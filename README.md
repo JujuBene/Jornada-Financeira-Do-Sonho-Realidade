@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/unnamed.jpg"
+    src="./assets/Captura de tela 2026-01-13 162125.png"
     width="300"
 />
 
